@@ -1,4 +1,4 @@
-# Overbond Coding Challenge -- Yield Spread Calculator
+# Overbond Coding Challenge - Yield Spread Calculator
 
 Given a CSV file, calculate the yield spreads and Reads input from a .csv file to calculate the yield spreads of one or more corporate bonds to either a government bond benchmark or to the government bond curve.
 
